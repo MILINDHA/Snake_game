@@ -15,7 +15,7 @@ This project uses fundamental concepts such as handling and managing data struct
 4.If you accidentally eat your own body, the game will be over.
 
 
-#Game
+# 🐍---Game---🍎
 
 ![Screenshot (516)](https://user-images.githubusercontent.com/78519911/141433118-7c45620b-633e-4857-b882-870743da4e54.png)
 
